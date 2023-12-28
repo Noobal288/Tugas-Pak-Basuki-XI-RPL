@@ -1,0 +1,12 @@
+1.Judul Aplikasi
+2.Latar belakang
+3.Permasalahan
+4.Solusi
+
+1. nitip yh
+2. Bisnis jastip atau jasa titip merupakan bisnis jasa yang memiliki tujuan membantu orang melakukan pembelian produk di luar jangkauan, biasanya jastip dilakukan secara online melalui instagram,whatsapp,facebook namun aplikasi yang ingin saya buat ini berbasis web jadi memudahkan orang untuk memesan secara online.
+3. biasanya jastip dilakukan di instagram,whatsapp,dll permasalahannya adalah kita tidak tau apakah pembuat jastip dapat dipercaya dan juga masalah utamanya adalah keterlambatan balas pesan sehingga komunikasi tidak lancar kemudian mengakibatkan salah barang atau keterlambatan pengiriman.
+4. solusinya adalah dengan menggunakan aplikasi ini kita tidak perlu untuk mengechat admin ketika ingin melakukan jastip, hanya dengan mengklik pesan barang anda akan segera kami dapatkan dan juga di aplikasi ini kami hanya mengumpulkan seller jastip ynag trusted
+ 
+
+ 
